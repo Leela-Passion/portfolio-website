@@ -40,4 +40,4 @@ jobs:
           app-name: 'pubnub-stream-app'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0114607B0FD408BA856F787803F900F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DE15766D62446898735C6ABE73F2267 }}
